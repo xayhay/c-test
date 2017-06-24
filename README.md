@@ -1,2 +1,2 @@
 # c-test
-c测试
+c-test
