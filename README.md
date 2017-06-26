@@ -1,2 +1,2 @@
 # c-test
-hahaha
+这几天考试哈。
